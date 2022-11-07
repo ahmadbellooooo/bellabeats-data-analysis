@@ -1,4 +1,6 @@
-### bellabeats-data-analysis
+### bellabeats
+
+![bellabeats](images/Bellabeat.png)
 
 ## Impact of Smart Device Usage In Consumers
 
@@ -29,8 +31,37 @@ The dataset was checked to view tables with common column names. The results ind
 The tables were merged together using the Id as primary key. The results of the aggregation enables room for further analysis into the loss of calories per number of steps taken and total distance covered. The data was also analyzed to determine the number of naps taken by different users to discover sleep patterns.
 
 
+### The scatter plot below show the calories lost and number of steps taken
 
-![total distance covered an calories burned]([relative/path/to/Total_distance_calories.png](https://github.com/ahmadbellooooo/bellabeats-data-analysis/blob/main/Total_distance_calories.png)?raw=true "corellation between calories burned and distance covered")
+![total steps](images/total_steps_calories.png)
+
+The blue circles represent the number of calories lost for every step taken, the highest number of calories lost was at 4900 just below the 5000 mark. The plot also indicates that this was achieved at 20,000 steps.
 
 
-https://lh4.googleusercontent.com/A3g_ZX7jfgJlt7w_Uc1dwRARnEcumSvC-J8CJQ5kze_aUQ8cRd8r73hPhh5D5ZZxdFBaXfw1vWtWQ8LvVCdJBQO1Q6J1USOFteRx-1x1Hc9Nj9_vqFQbha3ZgU0zzvr3-eu-gh6H-IPh08C45KSE68T0nI_y1tU8wxXaCqv2uF2Ry2gFm5-2pp1-YWEnn5s=w1280
+
+### The scatter plot below shows the calories lost and distance covered
+
+
+![distance covered](images/Total_distance_calories.png)
+
+The blue circles represent the number of calories lost for distance covered, the scatter plot is similar to the one above  but it aggregates values of the distance covered. With 28 kilometers being the longest distance  and lowest calories lost is above the 500 mark.
+
+### The line graph bellow shows the sleep pattern of users across weekdays
+
+![time sleeping](images/total_time_sleeping.png)
+
+The line graph shows that users  had the lowest number of naps on Monday 17 and the highest number of naps on Saturday  44.  Also  users get to sleep for less time on Mondays and sleep longer on Saturdays.
+
+### Conclusion 
+
+  Sleeping pattern is similar in all users as they get to take more naps for longer period of time during the weekend and less naps for short periods of time during weekdays.
+  Calories burned are not necessarily related to the number of steps taken or distance covered.
+
+### Suggestions
+
+  Products should be marketed towards improving the sleep patterns in users.
+  Products should also provided measurements and records for specific activities in users (eg. running or walking) so as to effectively track their data.
+
+### Further Exploration
+
+More data should be collected to show the categories of users to study their activity patterns. Data should include type of  activities carried out , factors affecting sleep patterns and loss of calories. 
