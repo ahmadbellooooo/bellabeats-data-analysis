@@ -32,3 +32,5 @@ The tables were merged together using the Id as primary key. The results of the 
 
 ![total distance covered an calories burned]([relative/path/to/Total_distance_calories.png](https://github.com/ahmadbellooooo/bellabeats-data-analysis/blob/main/Total_distance_calories.png)?raw=true "corellation between calories burned and distance covered")
 
+
+https://lh4.googleusercontent.com/A3g_ZX7jfgJlt7w_Uc1dwRARnEcumSvC-J8CJQ5kze_aUQ8cRd8r73hPhh5D5ZZxdFBaXfw1vWtWQ8LvVCdJBQO1Q6J1USOFteRx-1x1Hc9Nj9_vqFQbha3ZgU0zzvr3-eu-gh6H-IPh08C45KSE68T0nI_y1tU8wxXaCqv2uF2Ry2gFm5-2pp1-YWEnn5s=w1280
