@@ -30,4 +30,4 @@ The tables were merged together using the Id as primary key. The results of the 
 
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![total distance covered an calories burned](relative/path/to/Total_distance_calories.png?raw=true "corellation between calories burned and distance covered")
